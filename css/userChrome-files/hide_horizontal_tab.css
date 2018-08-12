@@ -1,0 +1,6 @@
+#main-window:not([customizing]):not([tabsintitlebar="true"]) #TabsToolbar {
+  visibility: collapse;
+}
+#navigator-toolbox {
+  margin-top: 1px;
+}
